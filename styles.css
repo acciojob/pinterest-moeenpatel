@@ -4,7 +4,7 @@ img{
 	object-fit:cover;
 }
 
-.num{
+.hero{
 	display:flex;
 	align-items:center;
 }
@@ -14,12 +14,12 @@ h1{
 }
 
 p,h1,button{
-	margin:0px;
+	margin:0;
 	padding:12px;
 	text-align:center;
 }
 
-.do{
+.in{
 	margin:10px;
 	padding:20px;
 	display:flex;
@@ -27,6 +27,7 @@ p,h1,button{
 	align-items:center;
 	padding:15px;
 }
+
 .button{
 	background-color:red;
 	color:white;
